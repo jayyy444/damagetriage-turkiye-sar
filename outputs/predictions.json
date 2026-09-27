@@ -1,0 +1,5644 @@
+[
+  {
+    "building_id": "intact/1139025727",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1141523658",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870256",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138681967",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139270435",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720636",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138681958",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138641042",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139183217",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139282957",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139000418",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290386",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139022289",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138647994",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759899",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139055749",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720698",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139007758",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274303",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0102,
+    "confidence": 0.9898
+  },
+  {
+    "building_id": "intact/1139263408",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139418795",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138683131",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927139",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138732564",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138640489",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0005,
+    "confidence": 0.9995
+  },
+  {
+    "building_id": "intact/1138720503",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139074995",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139263475",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0152,
+    "confidence": 0.9848
+  },
+  {
+    "building_id": "intact/1138681965",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0091,
+    "confidence": 0.9909
+  },
+  {
+    "building_id": "intact/1139244804",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138669738",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138648003",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138966580",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139201715",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.007,
+    "confidence": 0.993
+  },
+  {
+    "building_id": "intact/1139022489",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138643863",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870226",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1144435187",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0062,
+    "confidence": 0.9938
+  },
+  {
+    "building_id": "intact/1139720626",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139263461",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139701221",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139701218",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274328",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139157712",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0077,
+    "confidence": 0.9923
+  },
+  {
+    "building_id": "intact/1138648880",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139009539",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139046879",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138755214",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138432444",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139000406",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927175",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139276412",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139006878",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139074984",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139157736",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139018946",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139279127",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1139290285",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274712",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138681950",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139244808",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139248399",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1141530084",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139263452",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139244811",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0045,
+    "confidence": 0.9955
+  },
+  {
+    "building_id": "intact/1139057075",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290315",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1138755193",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720654",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139055743",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139266985",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0145,
+    "confidence": 0.9855
+  },
+  {
+    "building_id": "intact/1139062025",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759897",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139248388",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290326",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139282990",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138675161",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138659894",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138950794",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0093,
+    "confidence": 0.9907
+  },
+  {
+    "building_id": "intact/1138681961",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139025726",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138684666",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138638611",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274246",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927105",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138649640",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139183171",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139007165",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139074544",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139183219",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.013,
+    "confidence": 0.987
+  },
+  {
+    "building_id": "intact/1139418813",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0029,
+    "confidence": 0.9971
+  },
+  {
+    "building_id": "intact/1138999306",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138659875",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139706765",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139046865",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.8445,
+    "confidence": 0.8445
+  },
+  {
+    "building_id": "intact/1138659851",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139291470",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0011,
+    "confidence": 0.9989
+  },
+  {
+    "building_id": "intact/1139055970",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138433970",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138669780",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139096844",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1138697483",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138670382",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.007,
+    "confidence": 0.993
+  },
+  {
+    "building_id": "intact/1138646713",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138638599",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139054733",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.2724,
+    "confidence": 0.7276
+  },
+  {
+    "building_id": "intact/1138432474",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248381",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138755169",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0048,
+    "confidence": 0.9952
+  },
+  {
+    "building_id": "intact/1138642458",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138981874",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139282323",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139018945",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138638613",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0107,
+    "confidence": 0.9893
+  },
+  {
+    "building_id": "intact/1138640515",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139267152",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1138966582",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139272442",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138966578",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139190957",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0034,
+    "confidence": 0.9966
+  },
+  {
+    "building_id": "intact/1139291455",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139704981",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0076,
+    "confidence": 0.9924
+  },
+  {
+    "building_id": "intact/1138659853",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139182721",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139181821",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138641430",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138961378",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139023107",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138638609",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138999402",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283040",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139157728",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0007,
+    "confidence": 0.9993
+  },
+  {
+    "building_id": "intact/1139070635",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138637655",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138708018",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248365",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759893",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.2897,
+    "confidence": 0.7103
+  },
+  {
+    "building_id": "intact/1138681941",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138432453",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139157751",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139055739",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138959486",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138659885",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138645046",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139183246",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0587,
+    "confidence": 0.9413
+  },
+  {
+    "building_id": "intact/1139697850",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138735096",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139272418",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138681928",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139047541",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1141840286",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0905,
+    "confidence": 0.9095
+  },
+  {
+    "building_id": "intact/1138648874",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138432469",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138648008",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139263471",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720617",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1138742682",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139264905",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139000799",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139244801",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139000391",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138669768",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139290369",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274267",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0007,
+    "confidence": 0.9993
+  },
+  {
+    "building_id": "intact/1138959461",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138721913",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139006895",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139209678",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1144440676",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139058142",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0012,
+    "confidence": 0.9988
+  },
+  {
+    "building_id": "intact/1138432471",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139004881",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139720628",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0071,
+    "confidence": 0.9929
+  },
+  {
+    "building_id": "intact/1139157718",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139023112",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139263456",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.7678,
+    "confidence": 0.7678
+  },
+  {
+    "building_id": "intact/1138870281",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139183747",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139272451",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0012,
+    "confidence": 0.9988
+  },
+  {
+    "building_id": "intact/1139290323",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0034,
+    "confidence": 0.9966
+  },
+  {
+    "building_id": "intact/1139248465",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139276413",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138995482",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139190980",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1139023130",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274206",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139272413",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0201,
+    "confidence": 0.9799
+  },
+  {
+    "building_id": "intact/1139000271",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139015509",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870276",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138640492",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139600040",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1139016177",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1138669758",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139282975",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139008109",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138638604",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138659898",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138643864",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139698410",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139263480",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0185,
+    "confidence": 0.9815
+  },
+  {
+    "building_id": "intact/1138961369",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1139023312",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0175,
+    "confidence": 0.9825
+  },
+  {
+    "building_id": "intact/1138643843",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138638632",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138961360",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138961370",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139006911",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248438",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0055,
+    "confidence": 0.9945
+  },
+  {
+    "building_id": "intact/1138649630",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138966575",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138646006",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138736664",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138670384",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138645048",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139054727",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248360",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138639567",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138648866",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138641436",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138642450",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927133",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0013,
+    "confidence": 0.9987
+  },
+  {
+    "building_id": "intact/1139182743",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1138639574",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248423",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0082,
+    "confidence": 0.9918
+  },
+  {
+    "building_id": "intact/1139274296",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139070606",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139054755",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138726351",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870282",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139720634",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720676",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0008,
+    "confidence": 0.9992
+  },
+  {
+    "building_id": "intact/1138635896",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759900",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139016178",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138981890",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0038,
+    "confidence": 0.9962
+  },
+  {
+    "building_id": "intact/1141530086",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139720665",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139272450",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138660139",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139263448",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0919,
+    "confidence": 0.9081
+  },
+  {
+    "building_id": "intact/1138999316",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139244799",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1139619780",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138648893",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139053074",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0044,
+    "confidence": 0.9956
+  },
+  {
+    "building_id": "intact/1138648878",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139072992",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138432438",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138678848",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138755183",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138981879",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1139012843",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139193948",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1141884014",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138647998",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0011,
+    "confidence": 0.9989
+  },
+  {
+    "building_id": "intact/1139067377",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290322",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138638619",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138999340",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139000805",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138647264",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138659837",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1138999405",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139023119",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.1462,
+    "confidence": 0.8538
+  },
+  {
+    "building_id": "intact/1138647995",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139070609",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0046,
+    "confidence": 0.9954
+  },
+  {
+    "building_id": "intact/1139055715",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1138870231",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139619777",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.8554,
+    "confidence": 0.8554
+  },
+  {
+    "building_id": "intact/1138927174",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274255",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138649929",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138648011",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138648886",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248471",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138776855",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283025",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139157740",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138961411",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0049,
+    "confidence": 0.9951
+  },
+  {
+    "building_id": "intact/1138433983",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1144423310",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138639639",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248455",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139016224",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139340494",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274219",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0039,
+    "confidence": 0.9961
+  },
+  {
+    "building_id": "intact/1138759909",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138641036",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138643858",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138950787",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1144435188",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0037,
+    "confidence": 0.9963
+  },
+  {
+    "building_id": "intact/1139283047",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139524303",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139157730",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1138999311",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138640516",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139340495",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1147666029",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0192,
+    "confidence": 0.9808
+  },
+  {
+    "building_id": "intact/1139248440",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138635893",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138432460",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274266",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139184621",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248453",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139007171",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139057103",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139272425",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139640818",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0034,
+    "confidence": 0.9966
+  },
+  {
+    "building_id": "intact/1139060012",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139299107",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138720506",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283023",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870267",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138961367",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1139274322",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139015512",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139248429",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138721904",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138959449",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139021112",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1139274224",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0032,
+    "confidence": 0.9968
+  },
+  {
+    "building_id": "intact/1138730425",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139071501",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139267442",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138433982",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138950796",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290339",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759929",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139185638",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0005,
+    "confidence": 0.9995
+  },
+  {
+    "building_id": "intact/1138434001",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138962056",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290327",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139266131",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139286709",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870233",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138759918",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138678875",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0022,
+    "confidence": 0.9978
+  },
+  {
+    "building_id": "intact/1139054739",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0052,
+    "confidence": 0.9948
+  },
+  {
+    "building_id": "intact/1138759894",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.024,
+    "confidence": 0.976
+  },
+  {
+    "building_id": "intact/1139248383",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138432475",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283544",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.001,
+    "confidence": 0.999
+  },
+  {
+    "building_id": "intact/1138659886",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139023127",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0057,
+    "confidence": 0.9943
+  },
+  {
+    "building_id": "intact/1139274286",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1139048610",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139006884",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138981854",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139007170",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138670372",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139418820",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283001",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0025,
+    "confidence": 0.9975
+  },
+  {
+    "building_id": "intact/1139248382",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139057074",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138659852",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138755199",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138647283",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138950802",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.101,
+    "confidence": 0.899
+  },
+  {
+    "building_id": "intact/1138730088",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139047535",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.829,
+    "confidence": 0.829
+  },
+  {
+    "building_id": "intact/1138678851",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138641022",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138635885",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0008,
+    "confidence": 0.9992
+  },
+  {
+    "building_id": "intact/1139070607",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139266978",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0007,
+    "confidence": 0.9993
+  },
+  {
+    "building_id": "intact/1139270427",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0012,
+    "confidence": 0.9988
+  },
+  {
+    "building_id": "intact/1139181845",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.004,
+    "confidence": 0.996
+  },
+  {
+    "building_id": "intact/1138997161",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290382",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0402,
+    "confidence": 0.9598
+  },
+  {
+    "building_id": "intact/1138433992",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1143882139",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138638629",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138720499",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138734082",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1139057087",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139340493",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139723536",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139096988",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139720659",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720683",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138961412",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139000415",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139193586",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759942",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0023,
+    "confidence": 0.9977
+  },
+  {
+    "building_id": "intact/1139180443",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248390",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274289",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138966584",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139072467",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0008,
+    "confidence": 0.9992
+  },
+  {
+    "building_id": "intact/1140399234",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0008,
+    "confidence": 0.9992
+  },
+  {
+    "building_id": "intact/1139051591",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138659864",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139022306",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139703170",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139157735",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139185634",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/272648231",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927130",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139286710",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139016775",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139244807",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0026,
+    "confidence": 0.9974
+  },
+  {
+    "building_id": "intact/1139071132",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0053,
+    "confidence": 0.9947
+  },
+  {
+    "building_id": "intact/1139095854",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138638612",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139281551",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138966577",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139279120",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1138755187",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138669755",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139072996",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0039,
+    "confidence": 0.9961
+  },
+  {
+    "building_id": "intact/1139185637",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.01,
+    "confidence": 0.99
+  },
+  {
+    "building_id": "intact/1139022301",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139119044",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1139183242",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0407,
+    "confidence": 0.9593
+  },
+  {
+    "building_id": "intact/1139016225",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.007,
+    "confidence": 0.993
+  },
+  {
+    "building_id": "intact/1139694034",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139280847",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0017,
+    "confidence": 0.9983
+  },
+  {
+    "building_id": "intact/1139291476",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.819,
+    "confidence": 0.819
+  },
+  {
+    "building_id": "intact/1139282968",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139178613",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138641440",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139009536",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139329889",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138675181",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0012,
+    "confidence": 0.9988
+  },
+  {
+    "building_id": "intact/1138638644",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0007,
+    "confidence": 0.9993
+  },
+  {
+    "building_id": "intact/1139004879",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283032",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138635914",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139272421",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139096831",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139054759",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0066,
+    "confidence": 0.9934
+  },
+  {
+    "building_id": "intact/1139263420",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1141528444",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138966572",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138697470",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138670381",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139072460",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139000803",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.6944,
+    "confidence": 0.6944
+  },
+  {
+    "building_id": "intact/1138959481",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139652631",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139279123",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138964658",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1141344353",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.6224,
+    "confidence": 0.6224
+  },
+  {
+    "building_id": "intact/1139290309",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927094",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139291465",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0005,
+    "confidence": 0.9995
+  },
+  {
+    "building_id": "intact/1139093089",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 1.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139180606",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0044,
+    "confidence": 0.9956
+  },
+  {
+    "building_id": "intact/1138433966",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138639559",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139055725",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139477222",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.003,
+    "confidence": 0.997
+  },
+  {
+    "building_id": "intact/1138642452",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138730084",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759937",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139290345",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139183206",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138732814",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870225",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138659899",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1141523671",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.4274,
+    "confidence": 0.5726
+  },
+  {
+    "building_id": "intact/1139293924",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 1.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138647268",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138641438",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139012844",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138982850",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139180182",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138962049",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139293923",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138732810",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138659869",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138640495",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138635905",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139024013",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139057099",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138677657",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139266979",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1139283037",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139694028",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.2326,
+    "confidence": 0.7674
+  },
+  {
+    "building_id": "intact/1138646005",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138732159",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139290299",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139720646",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283028",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1147741268",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.001,
+    "confidence": 0.999
+  },
+  {
+    "building_id": "intact/1138981853",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138649636",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139000395",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274722",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138999330",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138999343",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.5719,
+    "confidence": 0.5719
+  },
+  {
+    "building_id": "intact/1141885765",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139340482",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0037,
+    "confidence": 0.9963
+  },
+  {
+    "building_id": "intact/1139181987",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139057112",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139656563",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139291463",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139282959",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138720504",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0017,
+    "confidence": 0.9983
+  },
+  {
+    "building_id": "intact/1139281550",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.003,
+    "confidence": 0.997
+  },
+  {
+    "building_id": "intact/1138641047",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283002",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927103",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139071499",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.7176,
+    "confidence": 0.7176
+  },
+  {
+    "building_id": "intact/1139281530",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0007,
+    "confidence": 0.9993
+  },
+  {
+    "building_id": "intact/1138950773",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927143",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720672",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139700957",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927087",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1138648007",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139017460",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139025734",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139506535",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1139272444",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0097,
+    "confidence": 0.9903
+  },
+  {
+    "building_id": "intact/1138870260",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.001,
+    "confidence": 0.999
+  },
+  {
+    "building_id": "intact/1139720657",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139031249",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139114878",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1141530087",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0011,
+    "confidence": 0.9989
+  },
+  {
+    "building_id": "intact/1139290385",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138432473",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274247",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1143694091",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138536581",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139477206",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1141885763",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139190979",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.4834,
+    "confidence": 0.5166
+  },
+  {
+    "building_id": "intact/1139656562",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139071116",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720661",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138433978",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139244818",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139280844",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138434010",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274310",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139054757",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138959445",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139524302",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139053104",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139096827",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248392",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139074546",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0013,
+    "confidence": 0.9987
+  },
+  {
+    "building_id": "intact/1138669774",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139157737",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0022,
+    "confidence": 0.9978
+  },
+  {
+    "building_id": "intact/1139053664",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139697843",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138755209",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139264908",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290361",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139070608",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0011,
+    "confidence": 0.9989
+  },
+  {
+    "building_id": "intact/1139053081",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139012840",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139022484",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138641033",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139282944",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138755184",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138732158",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759907",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139055729",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138999599",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138981850",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139006887",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0022,
+    "confidence": 0.9978
+  },
+  {
+    "building_id": "intact/1138639568",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139262235",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138961368",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0008,
+    "confidence": 0.9992
+  },
+  {
+    "building_id": "intact/1139012835",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139070610",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139418818",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.006,
+    "confidence": 0.994
+  },
+  {
+    "building_id": "intact/1139697852",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139282979",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138999308",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927156",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138647258",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139180605",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139475058",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0005,
+    "confidence": 0.9995
+  },
+  {
+    "building_id": "intact/1138959474",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138999333",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138999317",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139477198",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1139248437",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138642456",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138669742",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0073,
+    "confidence": 0.9927
+  },
+  {
+    "building_id": "intact/1138963754",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139055737",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139059513",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138721910",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139183239",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138669759",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0012,
+    "confidence": 0.9988
+  },
+  {
+    "building_id": "intact/1139190958",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139096172",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139065931",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139057086",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139187586",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139209688",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0051,
+    "confidence": 0.9949
+  },
+  {
+    "building_id": "intact/1138635918",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138638606",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138635887",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759906",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.002,
+    "confidence": 0.998
+  },
+  {
+    "building_id": "intact/1139181855",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1139524306",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139697847",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0686,
+    "confidence": 0.9314
+  },
+  {
+    "building_id": "intact/1138638645",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139004877",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.112,
+    "confidence": 0.888
+  },
+  {
+    "building_id": "intact/1138638634",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139248380",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.9272,
+    "confidence": 0.9272
+  },
+  {
+    "building_id": "intact/1139157741",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138720502",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139024015",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139178947",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274244",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139058136",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927152",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139291469",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139272446",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138675172",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274263",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138640519",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138659900",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139064382",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139263474",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0014,
+    "confidence": 0.9986
+  },
+  {
+    "building_id": "intact/1138927137",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139180613",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139072469",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139157750",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139059512",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870274",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290297",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139169098",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290329",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290373",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274709",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138697466",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139004871",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138961410",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139182723",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139070638",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139010553",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759926",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0031,
+    "confidence": 0.9969
+  },
+  {
+    "building_id": "intact/1147652622",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139071117",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139286703",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139183203",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139268180",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138648016",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139418821",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139290324",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139286702",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138735090",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139281542",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0043,
+    "confidence": 0.9957
+  },
+  {
+    "building_id": "intact/1139183211",
+    "true_label": "intact",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.9904,
+    "confidence": 0.9904
+  },
+  {
+    "building_id": "intact/1139181811",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139264900",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139074994",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139291475",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0061,
+    "confidence": 0.9939
+  },
+  {
+    "building_id": "intact/1139181847",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139282951",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248454",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138870283",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138642457",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274306",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139181988",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139017459",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139282322",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0018,
+    "confidence": 0.9982
+  },
+  {
+    "building_id": "intact/1139703176",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248424",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138641441",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138639579",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139694911",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138950816",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "intact/1138646722",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0011,
+    "confidence": 0.9989
+  },
+  {
+    "building_id": "intact/1138678854",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139006904",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139274256",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0147,
+    "confidence": 0.9853
+  },
+  {
+    "building_id": "intact/1138755181",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139694024",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927085",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0275,
+    "confidence": 0.9725
+  },
+  {
+    "building_id": "intact/1139274213",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138683133",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139272440",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870271",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248421",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0009,
+    "confidence": 0.9991
+  },
+  {
+    "building_id": "intact/1138697467",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139057072",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138677647",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927104",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139055720",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138670373",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138981844",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139095860",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0009,
+    "confidence": 0.9991
+  },
+  {
+    "building_id": "intact/1139280854",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139209676",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139183216",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0207,
+    "confidence": 0.9793
+  },
+  {
+    "building_id": "intact/1139270423",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139055746",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139000417",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138646714",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138870269",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759911",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0017,
+    "confidence": 0.9983
+  },
+  {
+    "building_id": "intact/1138640500",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139061555",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283020",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139266976",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0013,
+    "confidence": 0.9987
+  },
+  {
+    "building_id": "intact/1139061924",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139007759",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139723538",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138639580",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139290353",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.2691,
+    "confidence": 0.7309
+  },
+  {
+    "building_id": "intact/1139274301",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139006901",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138669746",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138755204",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138643842",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139096841",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720640",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138759923",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1138927119",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139055750",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927176",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139291467",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0278,
+    "confidence": 0.9722
+  },
+  {
+    "building_id": "intact/1138759944",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139053075",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139022491",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138648888",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139061561",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0042,
+    "confidence": 0.9958
+  },
+  {
+    "building_id": "intact/1139291461",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139697844",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139203784",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138642454",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139015161",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139016782",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138645053",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139209697",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1138870279",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139711479",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138638607",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139524305",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139248464",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0004,
+    "confidence": 0.9996
+  },
+  {
+    "building_id": "intact/1139059428",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139178609",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139068098",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0094,
+    "confidence": 0.9906
+  },
+  {
+    "building_id": "intact/1139477197",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0161,
+    "confidence": 0.9839
+  },
+  {
+    "building_id": "intact/1139274278",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248427",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0003,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "intact/1139201708",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138755162",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139263405",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139248439",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139720674",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138638622",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "intact/1139015507",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138730420",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139193623",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0012,
+    "confidence": 0.9988
+  },
+  {
+    "building_id": "intact/1139047540",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139291457",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0084,
+    "confidence": 0.9916
+  },
+  {
+    "building_id": "intact/1139282984",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139266585",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139274243",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139283029",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138966593",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139340483",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0007,
+    "confidence": 0.9993
+  },
+  {
+    "building_id": "intact/1139074992",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.3356,
+    "confidence": 0.6644
+  },
+  {
+    "building_id": "intact/1139274716",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138966587",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1138927135",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139340485",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0012,
+    "confidence": 0.9988
+  },
+  {
+    "building_id": "intact/1139418809",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "intact/1139248477",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0333,
+    "confidence": 0.9667
+  },
+  {
+    "building_id": "intact/1139070634",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "intact/1139058134",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0014,
+    "confidence": 0.9986
+  },
+  {
+    "building_id": "intact/1141509770",
+    "true_label": "intact",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1139114880",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.9997,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "damaged/1139272419",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.6475,
+    "confidence": 0.6475
+  },
+  {
+    "building_id": "damaged/1139004873",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.238,
+    "confidence": 0.762
+  },
+  {
+    "building_id": "damaged/1141803213",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "damaged/1139266138",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 1.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1143676880",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0012,
+    "confidence": 0.9988
+  },
+  {
+    "building_id": "damaged/1139422904",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0231,
+    "confidence": 0.9769
+  },
+  {
+    "building_id": "damaged/1139274257",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.9997,
+    "confidence": 0.9997
+  },
+  {
+    "building_id": "damaged/1139299108",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.5625,
+    "confidence": 0.5625
+  },
+  {
+    "building_id": "damaged/1139190969",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 1.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1139190939",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 1.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1139004884",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0001,
+    "confidence": 0.9999
+  },
+  {
+    "building_id": "damaged/1139182740",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0371,
+    "confidence": 0.9629
+  },
+  {
+    "building_id": "damaged/1139248411",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.9984,
+    "confidence": 0.9984
+  },
+  {
+    "building_id": "damaged/1139190978",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0144,
+    "confidence": 0.9856
+  },
+  {
+    "building_id": "damaged/1139190966",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.9902,
+    "confidence": 0.9902
+  },
+  {
+    "building_id": "damaged/1139539884",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.999,
+    "confidence": 0.999
+  },
+  {
+    "building_id": "damaged/1139181809",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0075,
+    "confidence": 0.9925
+  },
+  {
+    "building_id": "damaged/1139283021",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 1.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1139290381",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 1.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1138950817",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0006,
+    "confidence": 0.9994
+  },
+  {
+    "building_id": "damaged/1143885097",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0002,
+    "confidence": 0.9998
+  },
+  {
+    "building_id": "damaged/1138870241",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1140850506",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.378,
+    "confidence": 0.622
+  },
+  {
+    "building_id": "damaged/1143885095",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.8492,
+    "confidence": 0.8492
+  },
+  {
+    "building_id": "damaged/1139274282",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 1.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1139248425",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0067,
+    "confidence": 0.9933
+  },
+  {
+    "building_id": "damaged/1139054734",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0079,
+    "confidence": 0.9921
+  },
+  {
+    "building_id": "damaged/1139119038",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 1.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1139263478",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.9954,
+    "confidence": 0.9954
+  },
+  {
+    "building_id": "damaged/1138950836",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.9344,
+    "confidence": 0.9344
+  },
+  {
+    "building_id": "damaged/1139181832",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.0,
+    "confidence": 1.0
+  },
+  {
+    "building_id": "damaged/1138870209",
+    "true_label": "damaged",
+    "predicted_label": "damaged",
+    "probability_damaged": 0.8947,
+    "confidence": 0.8947
+  },
+  {
+    "building_id": "damaged/1139179532",
+    "true_label": "damaged",
+    "predicted_label": "intact",
+    "probability_damaged": 0.1064,
+    "confidence": 0.8936
+  }
+]

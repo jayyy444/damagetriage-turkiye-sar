@@ -1,0 +1,30 @@
+{
+  "total_buildings": 806,
+  "predicted_damaged": 31,
+  "predicted_intact": 775,
+  "damaged_pct": 3.8,
+  "flagged_for_review": 7,
+  "avg_confidence": 0.9901,
+  "top_priority_building_ids": [
+    "intact/1139093089",
+    "intact/1139293924",
+    "damaged/1139266138",
+    "damaged/1139190969",
+    "damaged/1139190939",
+    "damaged/1139283021",
+    "damaged/1139290381",
+    "damaged/1139274282",
+    "damaged/1139119038",
+    "damaged/1139114880",
+    "damaged/1139274257",
+    "damaged/1139539884",
+    "damaged/1139248411",
+    "damaged/1139263478",
+    "intact/1139183211",
+    "damaged/1139190966",
+    "damaged/1138950836",
+    "intact/1139248380",
+    "damaged/1138870209",
+    "intact/1139619777"
+  ]
+}
