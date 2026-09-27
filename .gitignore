@@ -1,0 +1,33 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+.vscode/
+.ipynb_checkpoints/
+*.log
+
+# ML model weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+checkpoints/
+weights/
+
+# Datasets
+data/
+dataset/
+datasets/
+*.zip
+*.tar
+*.gz
+
+# Generated outputs
+outputs/
+outputs_ablation_optonly/
+
+# Local Python virtual environment
+jayy/

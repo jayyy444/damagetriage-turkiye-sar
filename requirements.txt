@@ -1,0 +1,10 @@
+torch
+torchvision
+h5py
+opencv-python-headless
+kornia
+scikit-learn
+numpy
+fpdf2
+pillow
+matplotlib
